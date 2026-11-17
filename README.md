@@ -27,5 +27,5 @@ Open to **AI/ML Engineering Internships**, **Research Internships**, and researc
 
 - **Working Email:** huan.elenoa@gmail.com
 - **Institution Email:** huan.nv2416500@sis.hust.edu.vn
-- **LinkedIn:** [Nguyen Huan](www.linkedin.com/in/huan-nguyen99)
+- **LinkedIn:** [Nguyen Huan]: www.linkedin.com/in/huan-nguyen99
 - **Portfolio:** [azios1010.github.io/portfolio](https://azios1010.github.io/portfolio/)
