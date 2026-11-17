@@ -2,7 +2,7 @@
 
 <h1 align="center">Nguyen Huan</h1>
 
-<p align="center">   <strong>Computer Engineering Undergraduate @ HUST</strong><br>   Computer Vision Research · AI Engineering </p>
+<p align="center">   <strong>B.Sc. in Computer Engineering @ HUST</strong><br>   Computer Vision Research · AI Engineering </p>
 
 ## About
 
@@ -15,8 +15,8 @@ I'm a Computer Engineering student at **Hanoi University of Science and Technolo
 - **Vietnamese Sentiment Analysis:** Evaluated PhoBERT and SVM classifiers, achieving an **F1 score of 0.83** on the project dataset.
 
 ## What I'm Working On
-
-- Semi-supervised **cardiac MRI segmentation** and medical image analysis.
+- **AI & Data Engineer** at **Glowbal Education**.
+- Conducting research in **medical image processing and analysis**.
 - Computer Vision model development, evaluation, and reproducible experimentation.
 
 ## What I'm Looking For
@@ -25,4 +25,7 @@ Open to **AI/ML Engineering Internships**, **Research Internships**, and researc
 
 ## Contact
 
-[Email](mailto\:huan.elenoa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hu%E1%BA%A5n-nguy%E1%BB%85n-7506993ba) · [Portfolio](https://azios1010.github.io/portfolio/)
+- **Working Email:** huan.elenoa@gmail.com
+- **Institution Email:** huan.nv2416500@sis.hust.edu.vn
+- **LinkedIn:** [Nguyen Huan](www.linkedin.com/in/huan-nguyen99)
+- **Portfolio:** [azios1010.github.io/portfolio](https://azios1010.github.io/portfolio/)
