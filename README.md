@@ -1,4 +1,4 @@
-\<p align="center">  <img src="https://scribesvg.vercel.app/api/render?lines=Computer+Vision+Research%3BApplied+AI+Engineering%3BMedical+Image+Analysis&width=820&font=Inter&layout=terminal&theme=monokai&gradient=ce0951%2Cc8f273&speed=55&cursor=block&cursorColor=66d9ef&cursorGlow=2&attribution=false" alt="Typing SVG" /> \</p>
+<img src="https://scribesvg.vercel.app/api/render?lines=Computer+Vision+Research%3BApplied+AI+Engineering%3BMedical+Image+Analysis&width=820&font=Inter&layout=terminal&theme=monokai&gradient=ce0951%2Cc8f273&speed=55&cursor=block&cursorColor=66d9ef&cursorGlow=2&attribution=false" alt="Typing SVG" />
 
 ## About
 
