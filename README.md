@@ -1,4 +1,4 @@
-\<p align="center">   \<img     src="[https://scribesvg.vercel.app/api/render?lines=Computer+Vision+Research%3BApplied+AI+Engineering%3BMedical+Image+Analysis&font=Inter&layout=terminal&theme=monokai&gradient=ce0951%2Cc8f273&speed=55&cursor=block&cursorColor=66d9ef&cursorGlow=2&attribution=false](https://scribesvg.vercel.app/api/render?lines=Computer+Vision+Research%3BApplied+AI+Engineering%3BMedical+Image+Analysis\&font=Inter\&layout=terminal\&theme=monokai\&gradient=ce0951%2Cc8f273\&speed=55\&cursor=block\&cursorColor=66d9ef\&cursorGlow=2\&attribution=false)"     alt="Computer Vision Research | Applied AI Engineering | Medical Image Analysis"     width="820"   /> \</p>
+\<p align="center">  <img src="https://scribesvg.vercel.app/api/render?lines=Computer+Vision+Research%3BApplied+AI+Engineering%3BMedical+Image+Analysis&width=820&font=Inter&layout=terminal&theme=monokai&gradient=ce0951%2Cc8f273&speed=55&cursor=block&cursorColor=66d9ef&cursorGlow=2&attribution=false" alt="Typing SVG" /> \</p>
 
 \<h1 align="center">Nguyen Huan\</h1>
 
